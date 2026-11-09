@@ -1,0 +1,72 @@
+pedido,cliente,endereço,cidade,motivo,data_coleta
+248100,Sandro Moraes,"Avenida dos Ipês, 196",Tramandaí,tamanho,2026-12-01
+248107,Aline Becker,"Rua dos Cataventos, 705",São Leopoldo,defeito,2026-12-04
+248114,Henrique Brandão,"Travessa da Figueira, 159",Capão da Canoa,tamanho,2026-12-07
+248121,Jaqueline Weber,"Rua do Sobrado, 607",Capão da Canoa,defeito,2026-12-10
+248128,André Brandão,"Avenida dos Ipês, 437",Gravataí,desistência,2026-12-13
+248135,Simone Lima,"Rua do Sobrado, 199",São Leopoldo,defeito,2026-12-16
+248142,Fábio Weber,"Rua Ipiranga Velha, 209",Canoas,tamanho,2026-12-19
+248149,Rodrigo Cardoso,"Rua dos Cataventos, 658",Tramandaí,tamanho,2026-12-22
+248156,Rosana Nunes,"Avenida Beira Lago, 884",Gravataí,defeito,2026-12-25
+248163,Vinícius Ugolini,"Rua das Hortênsias, 494",Gravataí,cor,2026-12-28
+248170,Priscila Saraiva,"Rua do Sobrado, 551",Porto Alegre,tamanho,2026-12-01
+248177,André Nunes,"Rua do Sobrado, 433",Canoas,cor,2026-12-04
+248184,Patrícia Cardoso,"Travessa da Figueira, 336",Novo Hamburgo,cor,2026-12-07
+248191,Daniela Gaspar,"Rua das Hortênsias, 603",Gravataí,tamanho,2026-12-10
+248198,Eduardo Nunes,"Rua dos Cataventos, 390",Porto Alegre,defeito,2026-12-13
+248205,Otávio Saraiva,"Avenida dos Ipês, 829",Capão da Canoa,tamanho,2026-12-16
+248212,Viviane Oliveira,"Travessa da Figueira, 473",Tramandaí,tamanho,2026-12-19
+248219,Thiago Quadros,"Rua Três Marias, 32",Viamão,tamanho,2026-12-22
+248226,Rosana Pacheco,"Rua Três Marias, 278",São Leopoldo,desistência,2026-12-25
+248233,Jaqueline Zanella,"Avenida Beira Lago, 937",Capão da Canoa,defeito,2026-12-28
+248240,Diego Esteves,"Avenida dos Ipês, 101",Novo Hamburgo,tamanho,2026-12-01
+248247,Rosana Vargas,"Travessa da Figueira, 185",Porto Alegre,defeito,2026-12-04
+248254,Sandro Rossi,"Rua do Sobrado, 700",Capão da Canoa,tamanho,2026-12-07
+248261,Patrícia Heinz,"Avenida dos Ipês, 175",Viamão,tamanho,2026-12-10
+248268,Daniela Brandão,"Rua Três Marias, 352",Tramandaí,tamanho,2026-12-13
+248275,Rosana Tavares,"Rua das Hortênsias, 61",Viamão,desistência,2026-12-16
+248282,Rosana Klein,"Travessa da Figueira, 278",Viamão,tamanho,2026-12-19
+248289,Henrique Heinz,"Rua das Hortênsias, 578",Capão da Canoa,tamanho,2026-12-22
+248296,Sandro Nunes,"Rua do Sobrado, 370",Canoas,tamanho,2026-12-25
+248303,Cristina Guimarães,"Rua Ipiranga Velha, 826",Porto Alegre,defeito,2026-12-28
+248310,Leandro Nunes,"Travessa da Figueira, 525",Canoas,tamanho,2026-12-01
+248317,Luciana Coelho,"Rua Três Marias, 553",Canoas,tamanho,2026-12-04
+248324,André Becker,"Avenida Beira Lago, 379",Tramandaí,tamanho,2026-12-07
+248331,Otávio Pacheco,"Rua do Sobrado, 925",Capão da Canoa,cor,2026-12-10
+248338,Eduardo Ugolini,"Avenida Beira Lago, 247",Tramandaí,tamanho,2026-12-13
+248345,Leandro Dornelles,"Rua Três Marias, 865",Gravataí,defeito,2026-12-16
+248352,Camila Albuquerque,"Rua dos Cataventos, 605",Capão da Canoa,tamanho,2026-12-19
+248359,Otávio Ilha,"Rua dos Cataventos, 642",Gravataí,tamanho,2026-12-22
+248366,Marina Lima,"Avenida dos Ipês, 548",São Leopoldo,tamanho,2026-12-25
+248373,Aline Ilha,"Avenida dos Ipês, 571",Tramandaí,defeito,2026-12-28
+248380,Rodrigo Farias,"Travessa da Figueira, 948",Porto Alegre,cor,2026-12-01
+248387,Rosana Becker,"Rua dos Cataventos, 183",Capão da Canoa,cor,2026-12-04
+248394,Aline Coelho,"Rua Ipiranga Velha, 232",Porto Alegre,desistência,2026-12-07
+248401,Vinícius Moraes,"Avenida Beira Lago, 42",Novo Hamburgo,tamanho,2026-12-10
+248408,Larissa Vargas,"Rua dos Cataventos, 598",Capão da Canoa,tamanho,2026-12-13
+248415,Bianca Weber,"Rua do Sobrado, 664",Novo Hamburgo,tamanho,2026-12-16
+248422,Sandro Tavares,"Rua Três Marias, 532",Tramandaí,defeito,2026-12-19
+248429,Vinícius Guimarães,"Rua Ipiranga Velha, 589",Tramandaí,cor,2026-12-22
+248436,Luciana Zanella,"Rua Três Marias, 349",São Leopoldo,tamanho,2026-12-25
+248443,André Vargas,"Avenida Beira Lago, 447",Porto Alegre,defeito,2026-12-28
+248450,Bianca Brandão,"Rua Três Marias, 663",Capão da Canoa,tamanho,2026-12-01
+248457,Larissa Gaspar,"Rua do Sobrado, 17",Viamão,tamanho,2026-12-04
+248464,Rosana Quadros,"Rua do Sobrado, 537",Capão da Canoa,defeito,2026-12-07
+248471,Diego Becker,"Rua dos Cataventos, 55",São Leopoldo,defeito,2026-12-10
+248478,Fernanda Brandão,"Rua Três Marias, 119",São Leopoldo,tamanho,2026-12-13
+248485,Simone Esteves,"Rua do Sobrado, 850",Tramandaí,defeito,2026-12-16
+248492,Luciana Fontoura,"Rua dos Cataventos, 536",Porto Alegre,defeito,2026-12-19
+248499,Jaqueline Oliveira,"Rua das Hortênsias, 606",Novo Hamburgo,tamanho,2026-12-22
+248506,Diego Xavier,"Rua do Sobrado, 316",Gravataí,tamanho,2026-12-25
+248513,Viviane Ugolini,"Rua Três Marias, 870",Novo Hamburgo,cor,2026-12-28
+248520,Rafael Cardoso,"Rua do Sobrado, 754",Novo Hamburgo,defeito,2026-12-01
+248527,Fábio Brandão,"Rua Ipiranga Velha, 783",Novo Hamburgo,tamanho,2026-12-04
+248534,Diego Rossi,"Rua das Hortênsias, 356",Novo Hamburgo,tamanho,2026-12-07
+248541,Larissa Becker,"Rua das Hortênsias, 902",Tramandaí,cor,2026-12-10
+248548,Gustavo Fontoura,"Rua Ipiranga Velha, 714",São Leopoldo,tamanho,2026-12-13
+248555,Jaqueline Klein,"Avenida dos Ipês, 300",Viamão,defeito,2026-12-16
+248562,Daniela Becker,"Rua do Sobrado, 441",Novo Hamburgo,defeito,2026-12-19
+248569,Rodrigo Quadros,"Avenida dos Ipês, 656",Porto Alegre,tamanho,2026-12-22
+248576,Sandro Cardoso,"Rua Ipiranga Velha, 892",Capão da Canoa,tamanho,2026-12-25
+248583,Márcio Saraiva,"Rua das Hortênsias, 692",Gravataí,cor,2026-12-28
+248590,Leandro Weber,"Rua Ipiranga Velha, 806",Capão da Canoa,tamanho,2026-12-01

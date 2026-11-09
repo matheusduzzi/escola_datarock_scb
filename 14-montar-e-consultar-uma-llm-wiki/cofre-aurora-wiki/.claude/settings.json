@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "defaultMode": "default",
+    "allow": [
+      "Edit(/wiki/**)"
+    ],
+    "ask": [
+      "Edit(/CLAUDE.md)"
+    ],
+    "deny": [
+      "Bash",
+      "PowerShell",
+      "Edit(/fontes/**)",
+      "Edit(/.claude/**)",
+      "Edit(/.obsidian/**)",
+      "Read(/1 Projetos/**)",
+      "Read(/2 Áreas/**)",
+      "Read(/3 Recursos/**)",
+      "Read(/4 Arquivo/**)",
+      "Read(/Base da equipe/**)",
+      "Read(/Caixa de entrada/**)",
+      "Read(/Modelos/**)",
+      "Read(/Fica fora do cofre.md)"
+    ]
+  }
+}
