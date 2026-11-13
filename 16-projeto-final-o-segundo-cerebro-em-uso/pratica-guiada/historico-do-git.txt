@@ -1,0 +1,174 @@
+$ git log --stat --format='%h %ad %s' --date=format:'%d/%m %H:%M'
+441e7a5 26/02 17:30 Revisão semanal de 26/02
+
+ {Caixa de entrada => 1 Projetos}/2027-02-23 nota rápida - Juliana quer a coleção no painel.md  |  0
+ {Caixa de entrada => 1 Projetos}/2027-02-25 áudio - o que dizer enquanto o painel não entra.md |  0
+ 1 Projetos/Painel de Estoque no atendimento.md                                                 |  6 +++++-
+ 2 Áreas/Segundo cérebro/Revisões/2027-02-26 revisão semanal.md                                 | 57 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 4 files changed, 62 insertions(+), 1 deletion(-)
+13012ec 26/02 16:00 Claude: verificação da regra 8
+
+ wiki/log.md | 1 +
+ 1 file changed, 1 insertion(+)
+438027c 25/02 18:00 Captura de 25/02
+
+ Caixa de entrada/2027-02-25 áudio - o que dizer enquanto o painel não entra.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+c07cf41 25/02 08:50 Claude: atualiza a nota do projeto com a wiki
+
+ 1 Projetos/Painel de Estoque no atendimento.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+716a9ec 25/02 08:40 Claude: resposta guardada, responder pelo painel se tem na loja
+
+ wiki/index.md                                          |  1 +
+ wiki/log.md                                            |  1 +
+ wiki/respostas/Responder pelo painel se tem na loja.md | 17 +++++++++++++++++
+ 3 files changed, 19 insertions(+)
+3dce544 24/02 09:00 Trava: Claude pode atualizar a nota do projeto
+
+ .claude/settings.json | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+7131447 24/02 08:40 Claude: ingest mensagem da Tainá de 23/02
+
+ wiki/Painel de Estoque.md                                                             |  6 +++++-
+ wiki/index.md                                                                         |  3 ++-
+ wiki/log.md                                                                           |  1 +
+ wiki/resumos/2027-02-23 mensagem da Tainá - lençol que não estava na loja (resumo).md | 14 ++++++++++++++
+ 4 files changed, 22 insertions(+), 2 deletions(-)
+510838f 23/02 18:00 Captura de 23/02 e fonte: mensagem da Tainá de 23/02
+
+ Caixa de entrada/2027-02-23 nota rápida - Juliana quer a coleção no painel.md | 7 +++++++
+ fontes/2027-02-23 mensagem da Tainá - lençol que não estava na loja.md        | 9 +++++++++
+ 2 files changed, 16 insertions(+)
+34190c7 23/02 08:40 Claude: ingest áudio do Bruno de 22/02
+
+ wiki/Estoque fantasma e contagem.md                              |  8 +++++++-
+ wiki/Painel de Estoque.md                                        |  7 +++++--
+ wiki/index.md                                                    |  5 +++--
+ wiki/log.md                                                      |  1 +
+ wiki/resumos/2027-02-22 áudio do Bruno - carga do CD (resumo).md | 15 +++++++++++++++
+ 5 files changed, 31 insertions(+), 5 deletions(-)
+2948363 22/02 18:00 Captura de 22/02 e fonte: áudio do Bruno de 22/02
+
+ 1 Projetos/Painel de Estoque no atendimento.md    |  1 +
+ 2 Áreas/2027-02-22 reunião semanal.md             | 22 ++++++++++++++++++++++
+ fontes/2027-02-22 áudio do Bruno - carga do CD.md |  8 ++++++++
+ 3 files changed, 31 insertions(+)
+aeba6d4 19/02 17:00 Revisão semanal de 19/02
+
+ {Caixa de entrada => 1 Projetos}/2027-02-18 áudio - contar primeiro o que mais vende.md |  0
+ 1 Projetos/Coleção Verão 2027.md                                                        | 18 ++++++++++++++++++
+ 1 Projetos/Painel de Estoque no atendimento.md                                          |  4 +++-
+ {Caixa de entrada => 2 Áreas}/2027-02-16 nota rápida - etiqueta sem impressão.md        |  0
+ 2 Áreas/Rápido Sul.md                                                                   |  4 ++++
+ 2 Áreas/Segundo cérebro/Revisões/2027-02-19 revisão semanal.md                          | 48 ++++++++++++++++++++++++++++++++++++++++++++++++
+ 3 Recursos/Contar um pouco toda semana acha o erro antes do cliente.md                  | 12 ++++++++++++
+ Caixa de entrada/2027-02-17 recorte - estoque fantasma.md                               |  8 --------
+ 8 files changed, 85 insertions(+), 9 deletions(-)
+ade8e3f 18/02 18:00 Captura de 18/02
+
+ Caixa de entrada/2027-02-18 áudio - contar primeiro o que mais vende.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+a3c992d 18/02 09:30 Claude: ingest anotação de leitura sobre estoque fantasma, de novo
+
+ wiki/Estoque fantasma e contagem.md                                                     | 15 +++++++++++++++
+ wiki/Painel de Estoque.md                                                               |  4 ++++
+ wiki/index.md                                                                           |  2 ++
+ wiki/log.md                                                                             |  1 +
+ wiki/resumos/2027-02-17 anotação de leitura - artigo sobre estoque fantasma (resumo).md | 16 ++++++++++++++++
+ 5 files changed, 38 insertions(+)
+62893e8 18/02 09:10 Revert "Claude: ingest anotação de leitura sobre estoque fantasma"
+
+ wiki/Estoque fantasma e contagem.md                                                     | 17 -----------------
+ wiki/Painel de Estoque.md                                                               |  4 ----
+ wiki/index.md                                                                           |  2 --
+ wiki/log.md                                                                             |  1 -
+ wiki/resumos/2027-02-17 anotação de leitura - artigo sobre estoque fantasma (resumo).md | 16 ----------------
+ 5 files changed, 40 deletions(-)
+82cf64c 18/02 08:40 Claude: ingest anotação de leitura sobre estoque fantasma
+
+ wiki/Estoque fantasma e contagem.md                                                     | 17 +++++++++++++++++
+ wiki/Painel de Estoque.md                                                               |  4 ++++
+ wiki/index.md                                                                           |  2 ++
+ wiki/log.md                                                                             |  1 +
+ wiki/resumos/2027-02-17 anotação de leitura - artigo sobre estoque fantasma (resumo).md | 16 ++++++++++++++++
+ 5 files changed, 40 insertions(+)
+06196ff 17/02 18:00 Captura de 17/02 e fonte: anotação de leitura sobre estoque fantasma
+
+ Caixa de entrada/2027-02-17 recorte - estoque fantasma.md                |  8 ++++++++
+ fontes/2027-02-17 anotação de leitura - artigo sobre estoque fantasma.md | 14 ++++++++++++++
+ 2 files changed, 22 insertions(+)
+c23a9a1 17/02 08:40 Claude: ingest e-mail do Leonardo de 16/02
+
+ wiki/Painel de Estoque.md                                                      | 12 +++++++++++-
+ wiki/index.md                                                                  |  3 ++-
+ wiki/log.md                                                                    |  1 +
+ wiki/resumos/2027-02-16 e-mail do Leonardo - atualização do painel (resumo).md | 16 ++++++++++++++++
+ 4 files changed, 30 insertions(+), 2 deletions(-)
+c11ed6f 16/02 18:00 Captura de 16/02 e fonte: e-mail do Leonardo de 16/02
+
+ Caixa de entrada/2027-02-16 nota rápida - etiqueta sem impressão.md |  7 +++++++
+ fontes/2027-02-16 e-mail do Leonardo - atualização do painel.md     | 18 ++++++++++++++++++
+ 2 files changed, 25 insertions(+)
+87c42c2 16/02 08:40 Claude: ingest ata de 15/02
+
+ wiki/Painel de Estoque.md                                  | 11 +++++++++++
+ wiki/index.md                                              |  5 +++++
+ wiki/log.md                                                |  2 ++
+ wiki/resumos/2027-02-15 ata da reunião semanal (resumo).md | 16 ++++++++++++++++
+ 4 files changed, 34 insertions(+)
+2139fe8 15/02 18:00 Captura de 15/02 e fonte: ata da reunião semanal de 15/02
+
+ 2 Áreas/2027-02-15 reunião semanal.md       | 22 ++++++++++++++++++++++
+ fontes/2027-02-15 ata da reunião semanal.md | 19 +++++++++++++++++++
+ 2 files changed, 41 insertions(+)
+1d35f8f 15/02 08:30 Início do projeto: cofre da aula 14 sem a wiki da coleta, esquema com consulta e verificação
+
+ .claude/settings.json                                                                       | 26 ++++++++++++++++++++++++++
+ .gitignore                                                                                  |  4 ++++
+ 1 Projetos/Painel de Estoque no atendimento.md                                              | 33 +++++++++++++++++++++++++++++++++
+ 1 Projetos/Site novo e checkout.md                                                          | 39 +++++++++++++++++++++++++++++++++++++++
+ 2 Áreas/2026-12-10 reunião - renovação Rápido Sul.md                                        | 23 +++++++++++++++++++++++
+ 2 Áreas/2027-01-05 1-1 com a Clara.md                                                       | 21 +++++++++++++++++++++
+ 2 Áreas/2027-01-11 reunião semanal.md                                                       | 22 ++++++++++++++++++++++
+ 2 Áreas/Atendimento das lojas físicas.md                                                    | 10 ++++++++++
+ 2 Áreas/Equipe de operações.md                                                              |  8 ++++++++
+ 2 Áreas/Pessoas/Bruno Teixeira.md                                                           | 19 +++++++++++++++++++
+ 2 Áreas/Pessoas/Clara Nogueira.md                                                           | 20 ++++++++++++++++++++
+ 2 Áreas/Pessoas/Juliana Prado.md                                                            | 18 ++++++++++++++++++
+ 2 Áreas/Pessoas/Leonardo Dias.md                                                            | 18 ++++++++++++++++++
+ 2 Áreas/Pessoas/Sérgio Mattos.md                                                            | 19 +++++++++++++++++++
+ 2 Áreas/Pessoas/Tainá Rocha.md                                                              | 19 +++++++++++++++++++
+ 2 Áreas/Política de trocas.md                                                               | 11 +++++++++++
+ 2 Áreas/Rápido Sul.md                                                                       | 29 +++++++++++++++++++++++++++++
+ 2 Áreas/Segundo cérebro/Regra de captura.md                                                 | 27 +++++++++++++++++++++++++++
+ 2 Áreas/Segundo cérebro/Rotina de manutenção.md                                             | 15 +++++++++++++++
+ 3 Recursos/Coleta de devolução tem de estar no contrato da transportadora.md                | 15 +++++++++++++++
+ 3 Recursos/Decisão sem o porquê vira aceitar ou mudar no escuro.md                          | 12 ++++++++++++
+ 4 Arquivo/Proposta - renovação Rápido Sul.md                                                | 14 ++++++++++++++
+ Base da equipe/Comece aqui.md                                                               | 21 +++++++++++++++++++++
+ Base da equipe/Como fazer/Avisar a Rápido Sul antes de campanha.md                          | 12 ++++++++++++
+ Base da equipe/Como fazer/Troca de compra do site numa loja física.md                       | 16 ++++++++++++++++
+ Base da equipe/Decisões/2026-10-12 prazo de troca de 15 dias em todos os canais.md          | 28 ++++++++++++++++++++++++++++
+ Base da equipe/Decisões/2026-12-03 compra do site pode ser trocada numa loja física.md      | 27 +++++++++++++++++++++++++++
+ Base da equipe/Decisões/2026-12-03 prazo de troca conta do recebimento na compra do site.md | 26 ++++++++++++++++++++++++++
+ Base da equipe/Decisões/2026-12-10 coleta de devolução dentro do contrato.md                | 29 +++++++++++++++++++++++++++++
+ Base da equipe/Decisões/2027-01-11 excedente de dezembro pago à parte.md                    | 28 ++++++++++++++++++++++++++++
+ CLAUDE.md                                                                                   | 31 +++++++++++++++++++++++++++++++
+ Fica fora do cofre.md                                                                       | 18 ++++++++++++++++++
+ Modelos/Como fazer.md                                                                       | 10 ++++++++++
+ Modelos/Decisão.md                                                                          | 27 +++++++++++++++++++++++++++
+ Modelos/Nota atômica.md                                                                     | 11 +++++++++++
+ Modelos/Nota rápida.md                                                                      |  6 ++++++
+ Modelos/Pessoa.md                                                                           | 16 ++++++++++++++++
+ Modelos/Projeto.md                                                                          | 32 ++++++++++++++++++++++++++++++++
+ Modelos/Recorte.md                                                                          |  7 +++++++
+ Modelos/Reunião.md                                                                          | 21 +++++++++++++++++++++
+ Modelos/Áudio.md                                                                            |  6 ++++++
+ wiki/index.md                                                                               |  7 +++++++
+ wiki/log.md                                                                                 |  1 +
+ 43 files changed, 802 insertions(+)
+
+$ git status --short
+?? "Caixa de entrada/2027-02-27 nota rápida - cliente do Aurora+ sem pontos.md"
+?? "Caixa de entrada/2027-02-28 recorte - últimas peças na loja.md"

@@ -31,10 +31,16 @@ Para pedir ajuda, deixe um comentário na aula com o seu objetivo, o que você f
 | [01-o-que-e-um-segundo-cerebro-e-o-que-nao-e/](01-o-que-e-um-segundo-cerebro-e-o-que-nao-e/) | O que é um segundo cérebro (e o que não é) |
 | [02-de-onde-veio-a-ideia/](02-de-onde-veio-a-ideia/) | De onde veio a ideia |
 | [03-para-que-serve-e-quanto-custa-manter/](03-para-que-serve-e-quanto-custa-manter/) | Para que serve e quanto custa manter |
+| [04-escolher-a-ferramenta/](04-escolher-a-ferramenta/) | Escolher a ferramenta |
+| [05-o-primeiro-cofre-no-obsidian/](05-o-primeiro-cofre-no-obsidian/) | O primeiro cofre no Obsidian |
 | [06-capturar-sem-friccao/](06-capturar-sem-friccao/) | Capturar sem fricção |
 | [07-organizar-e-destilar-para-nota-atomica-e-resumo/](07-organizar-e-destilar-para-nota-atomica-e-resumo/) | Organizar e destilar: PARA, nota atômica e resumo progressivo |
 | [08-atualizar-revisao-semanal-e-limpeza/](08-atualizar-revisao-semanal-e-limpeza/) | Atualizar: revisão semanal e limpeza |
 | [09-expressar-das-notas-a-entrega/](09-expressar-das-notas-a-entrega/) | Expressar: das notas à entrega |
+| [10-segundo-cerebro-pessoal/](10-segundo-cerebro-pessoal/) | Segundo cérebro pessoal |
 | [11-segundo-cerebro-profissional/](11-segundo-cerebro-profissional/) | Segundo cérebro profissional |
 | [12-a-llm-wiki-de-andrej-karpathy/](12-a-llm-wiki-de-andrej-karpathy/) | A LLM Wiki de Andrej Karpathy |
+| [13-o-cofre-como-pasta-de-trabalho-do-claude/](13-o-cofre-como-pasta-de-trabalho-do-claude/) | O cofre como pasta de trabalho do Claude |
 | [14-montar-e-consultar-uma-llm-wiki/](14-montar-e-consultar-uma-llm-wiki/) | Montar e consultar uma LLM Wiki |
+| [15-conectores-obsidian-cli-mcp-e-plugins/](15-conectores-obsidian-cli-mcp-e-plugins/) | Conectores: Obsidian CLI, MCP e plugins |
+| [16-projeto-final-o-segundo-cerebro-em-uso/](16-projeto-final-o-segundo-cerebro-em-uso/) | Projeto final: o segundo cérebro em uso |
